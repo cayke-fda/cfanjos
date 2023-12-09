@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cfanjos or Cayke Felipe dos Anjos
+- 👋 Hi, I’m @cayke-fda or Cayke Felipe dos Anjos
 - 👀 I’m interested in learning more about data science, software engineering and also becoming a better developer/programmer
 - 🌱 I’m currently exploring machine learning projects
 - 💞️ I’m looking to collaborate on big open source projects that might require machine learning or experience with Physics or modelling
